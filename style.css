@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --bg-color: #133E87;
+    --bg-primary-color: #CBDCEB;
+    --secundary-color: #F3F3E0;
+    --font: "Montserrat", serif;
+}
